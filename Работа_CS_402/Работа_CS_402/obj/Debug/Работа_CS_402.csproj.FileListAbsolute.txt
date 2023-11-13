@@ -1,0 +1,8 @@
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\bin\Debug\Работа_CS_402.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\bin\Debug\Работа_CS_402.exe
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\bin\Debug\Работа_CS_402.pdb
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\obj\Debug\Работа_CS_402.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\obj\Debug\Работа_CS_402.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\obj\Debug\Работа_CS_402.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\obj\Debug\Работа_CS_402.exe
+C:\Users\radio\Labs\C#\Работа_CS_402\Работа_CS_402\obj\Debug\Работа_CS_402.pdb
